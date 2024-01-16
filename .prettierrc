@@ -1,0 +1,10 @@
+{
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": false,
+    "formatOnSave": true,
+    "proseWrap": "never",
+    "object-curly-newline": "0",
+    "printWidth":250 
+}
